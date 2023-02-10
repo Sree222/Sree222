@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 I am a consultant who is passionate about visualizing data to provide strategic insights. I am an avid learner, skilled in interpreting, analysing and producing comprehensive reports.
 
 ### Skills
+
+Salesforce/
 Python/
 SQL/
 Tableau/
